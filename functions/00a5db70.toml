@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.462726Z
+addr = 0xa5db70
+size = 0x972
+name = "CCSPlayer_MovementServices_CheckJumpButton"
+type = "unsigned long long *"
+
+[header]
+name = "CCSPlayer_MovementServices_CheckJumpButton"
+addr = 0xa5db70
+type = "unsigned long long *"
+
+[header.args]

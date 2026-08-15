@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.463283Z
+addr = 0xe895b0
+size = 0x36
+name = "CTriggerGravity_GetTouchFunction"
+type = "long long (__fastcall *)()"
+
+[header]
+name = "CTriggerGravity_GetTouchFunction"
+addr = 0xe895b0
+type = "long long (__fastcall *)()"
+
+[header.args]

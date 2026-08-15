@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.463342Z
+addr = 0x1225470
+size = 0x174
+name = "CEntitySystem_ExecuteQueuedCreation"
+type = "void"
+
+[header]
+name = "CEntitySystem_ExecuteQueuedCreation"
+addr = 0x1225470
+type = "void"
+
+[header.args]

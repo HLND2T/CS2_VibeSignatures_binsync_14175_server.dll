@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.463276Z
+addr = 0xe3c150
+size = 0x1a3
+name = "CBaseEntity_EmitSound"
+type = "long long"
+
+[header]
+name = "CBaseEntity_EmitSound"
+addr = 0xe3c150
+type = "long long"
+
+[header.args]

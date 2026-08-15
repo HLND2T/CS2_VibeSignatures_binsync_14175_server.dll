@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.462461Z
+addr = 0x3cdd80
+size = 0xba
+name = "CBaseEntity_NetworkStateChangedLog"
+type = "long long"
+
+[header]
+name = "CBaseEntity_NetworkStateChangedLog"
+addr = 0x3cdd80
+type = "long long"
+
+[header.args]

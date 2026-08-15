@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.463296Z
+addr = 0xea65f0
+size = 0x1d4
+name = "UTIL_SayTextFilter"
+type = "long long"
+
+[header]
+name = "UTIL_SayTextFilter"
+addr = 0xea65f0
+type = "long long"
+
+[header.args]

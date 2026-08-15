@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.462326Z
+addr = 0x1df9d0
+size = 0x381
+name = "CCSPlayerPawn_OnSwitchWeapons"
+type = "void"
+
+[header]
+name = "CCSPlayerPawn_OnSwitchWeapons"
+addr = 0x1df9d0
+type = "void"
+
+[header.args]

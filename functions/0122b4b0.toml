@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.463365Z
+addr = 0x122b4b0
+size = 0xc7
+name = "CEntitySystem_InstallCreationWrapperCallbacks"
+type = "long long"
+
+[header]
+name = "CEntitySystem_InstallCreationWrapperCallbacks"
+addr = 0x122b4b0
+type = "long long"
+
+[header.args]

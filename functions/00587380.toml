@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.462544Z
+addr = 0x587380
+size = 0x29f
+name = "CSpawnGroupMgrGameSystem_SaveGame_Start"
+type = "long long"
+
+[header]
+name = "CSpawnGroupMgrGameSystem_SaveGame_Start"
+addr = 0x587380
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.462892Z
+addr = 0xb8d260
+size = 0x22a
+name = "CGameEntitySystem_FindEntityProcedural"
+type = "long long"
+
+[header]
+name = "CGameEntitySystem_FindEntityProcedural"
+addr = 0xb8d260
+type = "long long"
+
+[header.args]

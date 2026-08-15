@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.463002Z
+addr = 0xbe4c30
+size = 0x4a1
+name = "CLoopModeGame_ReceivedServerInfo"
+type = "char"
+
+[header]
+name = "CLoopModeGame_ReceivedServerInfo"
+addr = 0xbe4c30
+type = "char"
+
+[header.args]

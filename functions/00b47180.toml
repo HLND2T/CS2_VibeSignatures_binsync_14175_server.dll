@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.462832Z
+addr = 0xb47180
+size = 0x55
+name = "CBaseFilter_InputTestActivator"
+type = "long long"
+
+[header]
+name = "CBaseFilter_InputTestActivator"
+addr = 0xb47180
+type = "long long"
+
+[header.args]

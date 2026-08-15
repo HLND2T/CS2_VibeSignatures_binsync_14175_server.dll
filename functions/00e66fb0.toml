@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.463281Z
+addr = 0xe66fb0
+size = 0x3eb
+name = "CScriptedSequence_SynchronizeSequence"
+type = "void"
+
+[header]
+name = "CScriptedSequence_SynchronizeSequence"
+addr = 0xe66fb0
+type = "void"
+
+[header.args]

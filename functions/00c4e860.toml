@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:32.508926Z
+addr = 0xc4e860
+size = 0x84d
+name = "CBaseEntity_ctor"
+type = "long long"
+
+[header]
+name = "CBaseEntity_ctor"
+addr = 0xc4e860
+type = "long long"
+
+[header.args]

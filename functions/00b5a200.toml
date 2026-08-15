@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.462851Z
+addr = 0xb5a200
+size = 0xe
+name = "CEntitySaveRestoreBlockHandler_PreRestore"
+type = "long long"
+
+[header]
+name = "CEntitySaveRestoreBlockHandler_PreRestore"
+addr = 0xb5a200
+type = "long long"
+
+[header.args]

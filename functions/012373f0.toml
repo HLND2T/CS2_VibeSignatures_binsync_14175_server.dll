@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.463395Z
+addr = 0x12373f0
+size = 0xa2
+name = "CEntityKeyValues_Initialized"
+type = "long long"
+
+[header]
+name = "CEntityKeyValues_Initialized"
+addr = 0x12373f0
+type = "long long"
+
+[header.args]

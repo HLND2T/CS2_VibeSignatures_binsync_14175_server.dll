@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:30.676309Z
+addr = 0xbbca10
+size = 0x4bd
+name = "TraceShape"
+type = "bool"
+
+[header]
+name = "TraceShape"
+addr = 0xbbca10
+type = "bool"
+
+[header.args]

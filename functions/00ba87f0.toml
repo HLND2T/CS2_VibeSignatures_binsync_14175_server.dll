@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:30.251984Z
+addr = 0xba87f0
+size = 0x215
+name = "CSpawnGroupEntityFilterRegistrar_RegisterSpawnGroupEntityFilters"
+type = "_UNKNOWN **"
+
+[header]
+name = "CSpawnGroupEntityFilterRegistrar_RegisterSpawnGroupEntityFilters"
+addr = 0xba87f0
+type = "_UNKNOWN **"
+
+[header.args]

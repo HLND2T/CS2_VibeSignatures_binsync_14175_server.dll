@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.462453Z
+addr = 0x3c0640
+size = 0xda
+name = "sub_1803C1640"
+type = "long long"
+
+[header]
+name = "sub_1803C1640"
+addr = 0x3c0640
+type = "long long"
+
+[header.args]

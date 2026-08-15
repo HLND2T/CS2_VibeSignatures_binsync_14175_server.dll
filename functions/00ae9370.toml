@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.462778Z
+addr = 0xae9370
+size = 0x29
+name = "CCSPlayerController_Disconnect"
+type = "void"
+
+[header]
+name = "CCSPlayerController_Disconnect"
+addr = 0xae9370
+type = "void"
+
+[header.args]

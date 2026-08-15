@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.463180Z
+addr = 0xd1b7f0
+size = 0xd5
+name = "CSource2Server_OnHostNameChanged"
+type = "long long"
+
+[header]
+name = "CSource2Server_OnHostNameChanged"
+addr = 0xd1b7f0
+type = "long long"
+
+[header.args]

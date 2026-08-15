@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.463079Z
+addr = 0xc6a1c0
+size = 0x79d
+name = "Host_Say"
+type = "char"
+
+[header]
+name = "Host_Say"
+addr = 0xc6a1c0
+type = "char"
+
+[header.args]

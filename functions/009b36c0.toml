@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.462690Z
+addr = 0x9b36c0
+size = 0xb9
+name = "CCSWeaponBase_ItemPostFrame_ProcessReloadAction"
+type = "long long"
+
+[header]
+name = "CCSWeaponBase_ItemPostFrame_ProcessReloadAction"
+addr = 0x9b36c0
+type = "long long"
+
+[header.args]

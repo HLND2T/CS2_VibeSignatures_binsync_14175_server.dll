@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.462301Z
+addr = 0x1ac750
+size = 0x5d5
+name = "CNetworkTransmitComponent_StateChanged"
+type = "void"
+
+[header]
+name = "CNetworkTransmitComponent_StateChanged"
+addr = 0x1ac750
+type = "void"
+
+[header.args]

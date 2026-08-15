@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.462439Z
+addr = 0x38e460
+size = 0x483
+name = "CFlashbangProjectile_Detonate"
+type = "long long"
+
+[header]
+name = "CFlashbangProjectile_Detonate"
+addr = 0x38e460
+type = "long long"
+
+[header.args]

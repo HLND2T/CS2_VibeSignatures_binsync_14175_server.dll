@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.463387Z
+addr = 0x12320d0
+size = 0x25a
+name = "CEntitySystem_SetInPVS"
+type = "void"
+
+[header]
+name = "CEntitySystem_SetInPVS"
+addr = 0x12320d0
+type = "void"
+
+[header.args]

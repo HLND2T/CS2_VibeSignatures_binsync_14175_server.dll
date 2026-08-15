@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.463257Z
+addr = 0xdaa9e0
+size = 0x38
+name = "CPhysExplosion_Activate"
+type = "long long"
+
+[header]
+name = "CPhysExplosion_Activate"
+addr = 0xdaa9e0
+type = "long long"
+
+[header.args]

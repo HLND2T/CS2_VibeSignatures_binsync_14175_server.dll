@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.463057Z
+addr = 0xc573c0
+size = 0x121
+name = "FireTarget_CommandHandler"
+type = "void"
+
+[header]
+name = "FireTarget_CommandHandler"
+addr = 0xc573c0
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.462496Z
+addr = 0x501ca0
+size = 0x5f9
+name = "DecalPlacementInfo_ctor"
+type = "long long *"
+
+[header]
+name = "DecalPlacementInfo_ctor"
+addr = 0x501ca0
+type = "long long *"
+
+[header.args]

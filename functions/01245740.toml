@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.463419Z
+addr = 0x1245740
+size = 0x8a
+name = "EntityInstanceAssignChangeAccessorPathIds"
+type = "long long"
+
+[header]
+name = "EntityInstanceAssignChangeAccessorPathIds"
+addr = 0x1245740
+type = "long long"
+
+[header.args]

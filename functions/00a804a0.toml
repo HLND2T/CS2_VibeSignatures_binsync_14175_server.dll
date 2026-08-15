@@ -1,0 +1,10 @@
+last_change = 2026-08-15T07:57:08.462751Z
+addr = 0xa804a0
+size = 0x5
+name = "CCSPlayer_UseServices_OnUse"
+
+[header]
+name = "CCSPlayer_UseServices_OnUse"
+addr = 0xa804a0
+
+[header.args]

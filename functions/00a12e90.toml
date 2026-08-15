@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.462695Z
+addr = 0xa12e90
+size = 0x2fd
+name = "CCSPlayerController_ChangeTeam"
+type = "_UNKNOWN **"
+
+[header]
+name = "CCSPlayerController_ChangeTeam"
+addr = 0xa12e90
+type = "_UNKNOWN **"
+
+[header.args]

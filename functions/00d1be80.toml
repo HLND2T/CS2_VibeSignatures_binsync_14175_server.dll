@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.463186Z
+addr = 0xd1be80
+size = 0x59
+name = "CSource2Server_Save"
+type = "char"
+
+[header]
+name = "CSource2Server_Save"
+addr = 0xd1be80
+type = "char"
+
+[header.args]

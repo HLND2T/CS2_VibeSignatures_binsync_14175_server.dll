@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.462730Z
+addr = 0xa5f2e0
+size = 0x80b
+name = "CCSPlayer_MovementServices_CheckVelocity"
+type = "char"
+
+[header]
+name = "CCSPlayer_MovementServices_CheckVelocity"
+addr = 0xa5f2e0
+type = "char"
+
+[header.args]

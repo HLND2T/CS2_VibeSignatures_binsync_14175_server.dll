@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.462762Z
+addr = 0xaa6130
+size = 0x15c
+name = "CCSPlayer_WeaponServices_DropWeapon"
+type = "void"
+
+[header]
+name = "CCSPlayer_WeaponServices_DropWeapon"
+addr = 0xaa6130
+type = "void"
+
+[header.args]

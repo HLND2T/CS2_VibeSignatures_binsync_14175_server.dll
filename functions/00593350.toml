@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.462552Z
+addr = 0x593350
+size = 0xb6d
+name = "CSpawnGroupMgrGameSystem_SpawnGroupSpawnEntitiesInternal"
+type = "long long"
+
+[header]
+name = "CSpawnGroupMgrGameSystem_SpawnGroupSpawnEntitiesInternal"
+addr = 0x593350
+type = "long long"
+
+[header.args]

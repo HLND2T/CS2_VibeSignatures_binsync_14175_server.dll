@@ -1,0 +1,803 @@
+[0x190e630]
+last_change = 2026-08-15T07:57:40.614031Z
+addr = 0x190e630
+name = "g_pInterfaceGlobals"
+size = 0x8
+
+[0x1bc7670]
+last_change = 2026-08-15T07:57:40.614088Z
+addr = 0x1bc7670
+name = "qword_181BC8670"
+size = 0x8
+
+[0x1becb48]
+last_change = 2026-08-15T07:57:40.614342Z
+addr = 0x1becb48
+name = "IGameSystem_LoopDestroyAllSystems_s_GameSystems"
+size = 0x4
+
+[0x1c52d18]
+last_change = 2026-08-15T07:57:40.614506Z
+addr = 0x1c52d18
+name = "g_GameTraceManager"
+size = 0x8
+
+[0x1c530f0]
+last_change = 2026-08-15T07:57:40.614544Z
+addr = 0x1c530f0
+name = "gameeventmanager"
+size = 0x8
+
+[0x1c53320]
+last_change = 2026-08-15T07:57:40.614564Z
+addr = 0x1c53320
+name = "s_GameEventManager"
+size = 0x8
+
+[0x1da0e08]
+last_change = 2026-08-15T07:57:40.614697Z
+addr = 0x1da0e08
+name = "g_pEntityList"
+size = 0x8
+
+[0x1dffdf8]
+last_change = 2026-08-15T07:57:40.614746Z
+addr = 0x1dffdf8
+name = "g_pCSBotManager"
+size = 0x8
+
+[0x1e453a0]
+last_change = 2026-08-15T07:57:40.614888Z
+addr = 0x1e453a0
+name = "IGameSystem_LoopPostInitAllSystems_pEventDispatcher"
+size = 0x8
+
+[0x1e453b8]
+last_change = 2026-08-15T07:57:40.614908Z
+addr = 0x1e453b8
+name = "IGameSystem_InitAllSystems_pFirst"
+size = 0x8
+
+[0x1e45428]
+last_change = 2026-08-15T07:57:40.614986Z
+addr = 0x1e45428
+name = "g_EntitySystem"
+size = 0x8
+
+[0x1f61768]
+last_change = 2026-08-15T07:57:40.615092Z
+addr = 0x1f61768
+name = "CCSGameRules__sm_mapGcBanInformation"
+size = 0x1
+
+[0x1f6dd20]
+last_change = 2026-08-15T07:57:40.615140Z
+addr = 0x1f6dd20
+name = "g_pGameTypes"
+size = 0x8
+
+[0x1fc4060]
+last_change = 2026-08-15T07:57:40.615285Z
+addr = 0x1fc4060
+name = "g_pGameEntitySystem"
+size = 0x8
+
+[0x1fcd6b8]
+last_change = 2026-08-15T07:57:40.615336Z
+addr = 0x1fcd6b8
+name = "CPlayer_MovementServices_s_pRunCommandPawn"
+size = 0x8
+
+[0x1fe5bc0]
+last_change = 2026-08-15T07:57:40.615423Z
+addr = 0x1fe5bc0
+name = "g_networkstringtable"
+size = 0x8
+
+[0x1fe5db0]
+last_change = 2026-08-15T07:57:40.615468Z
+addr = 0x1fe5db0
+name = "g_engine"
+size = 0x8
+
+[0x1fe5db8]
+last_change = 2026-08-15T07:57:40.615545Z
+addr = 0x1fe5db8
+name = "g_pGameRules"
+size = 0x8
+
+[0x21347c0]
+last_change = 2026-08-15T07:57:40.615678Z
+addr = 0x21347c0
+name = "g_pEntitySystem"
+size = 0x8
+
+[0x2137d28]
+last_change = 2026-08-15T07:57:40.615756Z
+addr = 0x2137d28
+name = "g_pGameResourceService"
+size = 0x8
+
+[0x214b7d8]
+last_change = 2026-08-15T07:57:40.615829Z
+addr = 0x214b7d8
+name = "g_pNavMesh"
+size = 0x8
+
+[0x21a4b50]
+last_change = 2026-08-15T07:57:40.615942Z
+addr = 0x21a4b50
+name = "g_pVApplication"
+size = 0x8
+
+[0x21a4b58]
+last_change = 2026-08-15T07:57:40.616079Z
+addr = 0x21a4b58
+name = "g_pVEngineCvar"
+size = 0x8
+
+[0x21a4b60]
+last_change = 2026-08-15T07:57:40.616100Z
+addr = 0x21a4b60
+name = "g_pVStringTokenSystem"
+size = 0x8
+
+[0x21a4b68]
+last_change = 2026-08-15T07:57:40.616116Z
+addr = 0x21a4b68
+name = "g_pProcessUtils"
+size = 0x8
+
+[0x21a4b70]
+last_change = 2026-08-15T07:57:40.616133Z
+addr = 0x21a4b70
+name = "g_pHelpSystem"
+size = 0x1
+
+[0x21a4b78]
+last_change = 2026-08-15T07:57:40.616150Z
+addr = 0x21a4b78
+name = "g_pToolSceneNodeFactory"
+size = 0x1
+
+[0x21a4b80]
+last_change = 2026-08-15T07:57:40.616166Z
+addr = 0x21a4b80
+name = "g_pEconItemToolModel"
+size = 0x1
+
+[0x21a4b88]
+last_change = 2026-08-15T07:57:40.616182Z
+addr = 0x21a4b88
+name = "g_pSchemaTestExternalTwo"
+size = 0x1
+
+[0x21a4b90]
+last_change = 2026-08-15T07:57:40.616197Z
+addr = 0x21a4b90
+name = "g_pSchemaTestExternalOne"
+size = 0x1
+
+[0x21a4b98]
+last_change = 2026-08-15T07:57:40.616212Z
+addr = 0x21a4b98
+name = "g_pAnimationSystem"
+size = 0x8
+
+[0x21a4ba0]
+last_change = 2026-08-15T07:57:40.616226Z
+addr = 0x21a4ba0
+name = "g_pAnimationSystemUtils"
+size = 0x1
+
+[0x21a4ba8]
+last_change = 2026-08-15T07:57:40.616240Z
+addr = 0x21a4ba8
+name = "g_pTestScriptMgr"
+size = 0x8
+
+[0x21a4bb0]
+last_change = 2026-08-15T07:57:40.616255Z
+addr = 0x21a4bb0
+name = "g_pModelProcessingServices"
+size = 0x1
+
+[0x21a4bb8]
+last_change = 2026-08-15T07:57:40.616270Z
+addr = 0x21a4bb8
+name = "g_pLocalize"
+size = 0x1
+
+[0x21a4bc0]
+last_change = 2026-08-15T07:57:40.616285Z
+addr = 0x21a4bc0
+name = "g_pMaterialUtils"
+size = 0x1
+
+[0x21a4bc8]
+last_change = 2026-08-15T07:57:40.616299Z
+addr = 0x21a4bc8
+name = "g_pFontManager"
+size = 0x8
+
+[0x21a4bd0]
+last_change = 2026-08-15T07:57:40.616314Z
+addr = 0x21a4bd0
+name = "g_pTextLayout"
+size = 0x1
+
+[0x21a4bd8]
+last_change = 2026-08-15T07:57:40.616328Z
+addr = 0x21a4bd8
+name = "g_pAssetRenameSystem"
+size = 0x1
+
+[0x21a4be0]
+last_change = 2026-08-15T07:57:40.616343Z
+addr = 0x21a4be0
+name = "g_pAssetPreviewSystem"
+size = 0x1
+
+[0x21a4be8]
+last_change = 2026-08-15T07:57:40.616357Z
+addr = 0x21a4be8
+name = "g_pAssetBrowserSystem"
+size = 0x1
+
+[0x21a4bf0]
+last_change = 2026-08-15T07:57:40.616373Z
+addr = 0x21a4bf0
+name = "g_pRenderDeviceMgr"
+size = 0x1
+
+[0x21a4bf8]
+last_change = 2026-08-15T07:57:40.616425Z
+addr = 0x21a4bf8
+name = "g_pFileSystem"
+size = 0x8
+
+[0x21a4c00]
+last_change = 2026-08-15T07:57:40.616444Z
+addr = 0x21a4c00
+name = "g_pAsyncFileSystem"
+size = 0x1
+
+[0x21a4c08]
+last_change = 2026-08-15T07:57:40.616459Z
+addr = 0x21a4c08
+name = "g_pAssetSystem"
+size = 0x8
+
+[0x21a4c10]
+last_change = 2026-08-15T07:57:40.616474Z
+addr = 0x21a4c10
+name = "g_pAssetSystemTest"
+size = 0x1
+
+[0x21a4c18]
+last_change = 2026-08-15T07:57:40.616489Z
+addr = 0x21a4c18
+name = "g_pPropertyEditorSystem"
+size = 0x1
+
+[0x21a4c20]
+last_change = 2026-08-15T07:57:40.616504Z
+addr = 0x21a4c20
+name = "g_pSchemaSystem"
+size = 0x8
+
+[0x21a4c28]
+last_change = 2026-08-15T07:57:40.616520Z
+addr = 0x21a4c28
+name = "g_pResourceCompilerSystem"
+size = 0x1
+
+[0x21a4c30]
+last_change = 2026-08-15T07:57:40.616535Z
+addr = 0x21a4c30
+name = "g_pResourceSystem"
+size = 0x8
+
+[0x21a4c38]
+last_change = 2026-08-15T07:57:40.616617Z
+addr = 0x21a4c38
+name = "g_pResourceHandleUtils"
+size = 0x8
+
+[0x21a4c40]
+last_change = 2026-08-15T07:57:40.616635Z
+addr = 0x21a4c40
+name = "g_pResourceManifestRegistry"
+size = 0x8
+
+[0x21a4c48]
+last_change = 2026-08-15T07:57:40.616651Z
+addr = 0x21a4c48
+name = "g_pMaterialSystem2"
+size = 0x8
+
+[0x21a4c50]
+last_change = 2026-08-15T07:57:40.616667Z
+addr = 0x21a4c50
+name = "g_pPostProcessingSystem"
+size = 0x1
+
+[0x21a4c58]
+last_change = 2026-08-15T07:57:40.616682Z
+addr = 0x21a4c58
+name = "g_pInputSystem"
+size = 0x8
+
+[0x21a4c60]
+last_change = 2026-08-15T07:57:40.616697Z
+addr = 0x21a4c60
+name = "g_pInputStackSystem"
+size = 0x8
+
+[0x21a4c68]
+last_change = 2026-08-15T07:57:40.616713Z
+addr = 0x21a4c68
+name = "g_pVP4"
+size = 0x1
+
+[0x21a4c70]
+last_change = 2026-08-15T07:57:40.616784Z
+addr = 0x21a4c70
+name = "g_pMatchFramework"
+size = 0x8
+
+[0x21a4c78]
+last_change = 2026-08-15T07:57:40.616800Z
+addr = 0x21a4c78
+name = "g_pVConComm"
+size = 0x8
+
+[0x21a4c80]
+last_change = 2026-08-15T07:57:40.616815Z
+addr = 0x21a4c80
+name = "g_pSource2V8System"
+size = 0x1
+
+[0x21a4c88]
+last_change = 2026-08-15T07:57:40.616830Z
+addr = 0x21a4c88
+name = "g_pPanoramaUIEngine"
+size = 0x1
+
+[0x21a4c90]
+last_change = 2026-08-15T07:57:40.616845Z
+addr = 0x21a4c90
+name = "g_pPanoramaUIClient"
+size = 0x1
+
+[0x21a4c98]
+last_change = 2026-08-15T07:57:40.616860Z
+addr = 0x21a4c98
+name = "g_pPanoramaTextServices"
+size = 0x1
+
+[0x21a4ca8]
+last_change = 2026-08-15T07:57:40.616874Z
+addr = 0x21a4ca8
+name = "g_pModelDocUtils"
+size = 0x1
+
+[0x21a4cb0]
+last_change = 2026-08-15T07:57:40.616888Z
+addr = 0x21a4cb0
+name = "g_pAnimGraphEditorUtils"
+size = 0x1
+
+[0x21a4cb8]
+last_change = 2026-08-15T07:57:40.616902Z
+addr = 0x21a4cb8
+name = "g_pRenderDevice"
+size = 0x8
+
+[0x21a4cc0]
+last_change = 2026-08-15T07:57:40.616916Z
+addr = 0x21a4cc0
+name = "g_pRenderDeviceSetup"
+size = 0x1
+
+[0x21a4cc8]
+last_change = 2026-08-15T07:57:40.616931Z
+addr = 0x21a4cc8
+name = "g_pRenderHardwareConfig"
+size = 0x8
+
+[0x21a4cd0]
+last_change = 2026-08-15T07:57:40.616945Z
+addr = 0x21a4cd0
+name = "g_pRenderUtils"
+size = 0x1
+
+[0x21a4cd8]
+last_change = 2026-08-15T07:57:40.616959Z
+addr = 0x21a4cd8
+name = "g_pSoundSystem"
+size = 0x8
+
+[0x21a4ce0]
+last_change = 2026-08-15T07:57:40.616974Z
+addr = 0x21a4ce0
+name = "g_pSoundOpSystemEdit"
+size = 0x1
+
+[0x21a4ce8]
+last_change = 2026-08-15T07:57:40.616988Z
+addr = 0x21a4ce8
+name = "g_pSoundOpSystem"
+size = 0x8
+
+[0x21a4cf0]
+last_change = 2026-08-15T07:57:40.617003Z
+addr = 0x21a4cf0
+name = "g_pSteamAudio"
+size = 0x8
+
+[0x21a4cf8]
+last_change = 2026-08-15T07:57:40.617018Z
+addr = 0x21a4cf8
+name = "g_pMeshSystem"
+size = 0x8
+
+[0x21a4d00]
+last_change = 2026-08-15T07:57:40.617032Z
+addr = 0x21a4d00
+name = "g_pMeshUtils"
+size = 0x8
+
+[0x21a4d08]
+last_change = 2026-08-15T07:57:40.617045Z
+addr = 0x21a4d08
+name = "g_pSceneSystem"
+size = 0x8
+
+[0x21a4d10]
+last_change = 2026-08-15T07:57:40.617060Z
+addr = 0x21a4d10
+name = "g_pIPulseSystem"
+size = 0x8
+
+[0x21a4d18]
+last_change = 2026-08-15T07:57:40.617073Z
+addr = 0x21a4d18
+name = "g_pSceneUtils"
+size = 0x8
+
+[0x21a4d20]
+last_change = 2026-08-15T07:57:40.617088Z
+addr = 0x21a4d20
+name = "g_pScriptManager"
+size = 0x8
+
+[0x21a4d28]
+last_change = 2026-08-15T07:57:40.617102Z
+addr = 0x21a4d28
+name = "g_pWEBM"
+size = 0x1
+
+[0x21a4d30]
+last_change = 2026-08-15T07:57:40.617125Z
+addr = 0x21a4d30
+name = "g_pMediaFoundation"
+size = 0x1
+
+[0x21a4d38]
+last_change = 2026-08-15T07:57:40.617139Z
+addr = 0x21a4d38
+name = "g_pAVI"
+size = 0x8
+
+[0x21a4d40]
+last_change = 2026-08-15T07:57:40.617154Z
+addr = 0x21a4d40
+name = "g_pBIK"
+size = 0x1
+
+[0x21a4d48]
+last_change = 2026-08-15T07:57:40.617169Z
+addr = 0x21a4d48
+name = "g_pWorldRendererMgr"
+size = 0x8
+
+[0x21a4d50]
+last_change = 2026-08-15T07:57:40.617184Z
+addr = 0x21a4d50
+name = "g_pNetworkSystem"
+size = 0x8
+
+[0x21a4d58]
+last_change = 2026-08-15T07:57:40.617230Z
+addr = 0x21a4d58
+name = "g_pNetworkMessages"
+size = 0x8
+
+[0x21a4d60]
+last_change = 2026-08-15T07:57:40.617299Z
+addr = 0x21a4d60
+name = "g_pFlattenedSerializers"
+size = 0x8
+
+[0x21a4d68]
+last_change = 2026-08-15T07:57:40.617314Z
+addr = 0x21a4d68
+name = "g_pSerializedEntities"
+size = 0x8
+
+[0x21a4d70]
+last_change = 2026-08-15T07:57:40.617328Z
+addr = 0x21a4d70
+name = "g_pDemoUpconverter"
+size = 0x1
+
+[0x21a4d78]
+last_change = 2026-08-15T07:57:40.617341Z
+addr = 0x21a4d78
+name = "g_pParticleSystemMgr"
+size = 0x8
+
+[0x21a4d80]
+last_change = 2026-08-15T07:57:40.617355Z
+addr = 0x21a4d80
+name = "g_pToolFramework2"
+size = 0x8
+
+[0x21a4d88]
+last_change = 2026-08-15T07:57:40.617369Z
+addr = 0x21a4d88
+name = "g_pHammerMapLoader"
+size = 0x1
+
+[0x21a4d90]
+last_change = 2026-08-15T07:57:40.617382Z
+addr = 0x21a4d90
+name = "g_pVisBuilder"
+size = 0x1
+
+[0x21a4d98]
+last_change = 2026-08-15T07:57:40.617396Z
+addr = 0x21a4d98
+name = "g_pPhysicsBuilderMgr"
+size = 0x1
+
+[0x21a4da0]
+last_change = 2026-08-15T07:57:40.617409Z
+addr = 0x21a4da0
+name = "g_pBakedLODBuilderMgr"
+size = 0x1
+
+[0x21a4da8]
+last_change = 2026-08-15T07:57:40.617423Z
+addr = 0x21a4da8
+name = "g_pVPhysics2"
+size = 0x8
+
+[0x21a4db0]
+last_change = 2026-08-15T07:57:40.617437Z
+addr = 0x21a4db0
+name = "g_pExportSystem"
+size = 0x1
+
+[0x21a4db8]
+last_change = 2026-08-15T07:57:40.617451Z
+addr = 0x21a4db8
+name = "g_pNavSystem"
+size = 0x1
+
+[0x21a4dc0]
+last_change = 2026-08-15T07:57:40.617465Z
+addr = 0x21a4dc0
+name = "g_pNavGameTest"
+size = 0x1
+
+[0x21a4dc8]
+last_change = 2026-08-15T07:57:40.617480Z
+addr = 0x21a4dc8
+name = "g_pRAD3"
+size = 0x1
+
+[0x21a4dd0]
+last_change = 2026-08-15T07:57:40.617494Z
+addr = 0x21a4dd0
+name = "g_pSource2Client"
+size = 0x1
+
+[0x21a4dd8]
+last_change = 2026-08-15T07:57:40.617507Z
+addr = 0x21a4dd8
+name = "g_pSource2ClientUI"
+size = 0x1
+
+[0x21a4de0]
+last_change = 2026-08-15T07:57:40.617521Z
+addr = 0x21a4de0
+name = "g_pSource2Engine"
+size = 0x8
+
+[0x21a4de8]
+last_change = 2026-08-15T07:57:40.617535Z
+addr = 0x21a4de8
+name = "g_pSource2Server"
+size = 0x8
+
+[0x21a4df0]
+last_change = 2026-08-15T07:57:40.617549Z
+addr = 0x21a4df0
+name = "g_pSource2GameClients"
+size = 0x1
+
+[0x21a4df8]
+last_change = 2026-08-15T07:57:40.617563Z
+addr = 0x21a4df8
+name = "g_pSource2GameEntities"
+size = 0x1
+
+[0x21a4e00]
+last_change = 2026-08-15T07:57:40.617577Z
+addr = 0x21a4e00
+name = "g_pSource2Host"
+size = 0x1
+
+[0x21a4e08]
+last_change = 2026-08-15T07:57:40.617703Z
+addr = 0x21a4e08
+name = "g_pSource2ModTools"
+size = 0x1
+
+[0x21a4e10]
+last_change = 2026-08-15T07:57:40.617726Z
+addr = 0x21a4e10
+name = "g_pSource2EngineToClient"
+size = 0x1
+
+[0x21a4e18]
+last_change = 2026-08-15T07:57:40.617745Z
+addr = 0x21a4e18
+name = "g_pSource2EngineToServer"
+size = 0x8
+
+[0x21a4e20]
+last_change = 2026-08-15T07:57:40.617762Z
+addr = 0x21a4e20
+name = "g_pSource2EngineToServerStringTable"
+size = 0x1
+
+[0x21a4e28]
+last_change = 2026-08-15T07:57:40.617778Z
+addr = 0x21a4e28
+name = "g_pSource2EngineToClientStringTable"
+size = 0x1
+
+[0x21a4e30]
+last_change = 2026-08-15T07:57:40.617794Z
+addr = 0x21a4e30
+name = "g_pSource2ClientPrediction"
+size = 0x1
+
+[0x21a4e38]
+last_change = 2026-08-15T07:57:40.617809Z
+addr = 0x21a4e38
+name = "g_pEngineServiceMgr"
+size = 0x8
+
+[0x21a4e40]
+last_change = 2026-08-15T07:57:40.617824Z
+addr = 0x21a4e40
+name = "g_pHostStateMgr"
+size = 0x8
+
+[0x21a4e48]
+last_change = 2026-08-15T07:57:40.617839Z
+addr = 0x21a4e48
+name = "g_pNetworkService"
+size = 0x8
+
+[0x21a4e50]
+last_change = 2026-08-15T07:57:40.617854Z
+addr = 0x21a4e50
+name = "g_pNetworkClientService"
+size = 0x8
+
+[0x21a4e58]
+last_change = 2026-08-15T07:57:40.617868Z
+addr = 0x21a4e58
+name = "g_pNetworkP2PService"
+size = 0x1
+
+[0x21a4e60]
+last_change = 2026-08-15T07:57:40.617990Z
+addr = 0x21a4e60
+name = "g_pNetworkServerService"
+size = 0x8
+
+[0x21a4e68]
+last_change = 2026-08-15T07:57:40.618019Z
+addr = 0x21a4e68
+name = "g_pToolService"
+size = 0x1
+
+[0x21a4e70]
+last_change = 2026-08-15T07:57:40.618038Z
+addr = 0x21a4e70
+name = "g_pServerToolsInfo"
+size = 0x1
+
+[0x21a4e78]
+last_change = 2026-08-15T07:57:40.618054Z
+addr = 0x21a4e78
+name = "g_pClientToolsInfo"
+size = 0x1
+
+[0x21a4e80]
+last_change = 2026-08-15T07:57:40.618070Z
+addr = 0x21a4e80
+name = "g_pRenderService"
+size = 0x8
+
+[0x21a4e88]
+last_change = 2026-08-15T07:57:40.618085Z
+addr = 0x21a4e88
+name = "g_pStatsService"
+size = 0x1
+
+[0x21a4e90]
+last_change = 2026-08-15T07:57:40.618100Z
+addr = 0x21a4e90
+name = "g_pVProfService"
+size = 0x1
+
+[0x21a4e98]
+last_change = 2026-08-15T07:57:40.618115Z
+addr = 0x21a4e98
+name = "g_pInputService"
+size = 0x8
+
+[0x21a4ea0]
+last_change = 2026-08-15T07:57:40.618129Z
+addr = 0x21a4ea0
+name = "g_pMapListService"
+size = 0x8
+
+[0x21a4ea8]
+last_change = 2026-08-15T07:57:40.618144Z
+addr = 0x21a4ea8
+name = "g_pGameUIService"
+size = 0x8
+
+[0x21a4eb0]
+last_change = 2026-08-15T07:57:40.618159Z
+addr = 0x21a4eb0
+name = "g_pSoundService"
+size = 0x1
+
+[0x21a4eb8]
+last_change = 2026-08-15T07:57:40.618174Z
+addr = 0x21a4eb8
+name = "g_pBenchmarkService"
+size = 0x1
+
+[0x21a4ec0]
+last_change = 2026-08-15T07:57:40.618190Z
+addr = 0x21a4ec0
+name = "g_pKeyValueCache"
+size = 0x1
+
+[0x21a4ec8]
+last_change = 2026-08-15T07:57:40.618205Z
+addr = 0x21a4ec8
+name = "g_pClientServerSharedHandleSystem"
+size = 0x1
+
+[0x21a4ee0]
+last_change = 2026-08-15T07:57:40.618221Z
+addr = 0x21a4ee0
+name = "g_pGameResourceServiceClient"
+size = 0x1
+
+[0x21a4ee8]
+last_change = 2026-08-15T07:57:40.618236Z
+addr = 0x21a4ee8
+name = "g_pGameResourceServiceServer"
+size = 0x1

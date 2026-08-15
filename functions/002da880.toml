@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.462412Z
+addr = 0x2da880
+size = 0x13b6
+name = "CCSBot_UpdatePathMovement"
+type = "long long"
+
+[header]
+name = "CCSBot_UpdatePathMovement"
+addr = 0x2da880
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.462405Z
+addr = 0x2d2920
+size = 0xad
+name = "CCSBot_SetDisposition"
+type = "void"
+
+[header]
+name = "CCSBot_SetDisposition"
+addr = 0x2d2920
+type = "void"
+
+[header.args]

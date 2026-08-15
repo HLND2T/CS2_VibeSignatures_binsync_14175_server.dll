@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.463211Z
+addr = 0xd257e0
+size = 0xd2
+name = "CSource2GameClients_ClientPutInServer"
+type = "unsigned int *"
+
+[header]
+name = "CSource2GameClients_ClientPutInServer"
+addr = 0xd257e0
+type = "unsigned int *"
+
+[header.args]

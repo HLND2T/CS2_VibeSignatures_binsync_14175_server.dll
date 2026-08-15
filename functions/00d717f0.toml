@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.463243Z
+addr = 0xd717f0
+size = 0x18e
+name = "CRagdollProp_DrawEntityDebugOverlays"
+type = "long long"
+
+[header]
+name = "CRagdollProp_DrawEntityDebugOverlays"
+addr = 0xd717f0
+type = "long long"
+
+[header.args]

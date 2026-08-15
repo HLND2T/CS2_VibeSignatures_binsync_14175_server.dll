@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.462237Z
+addr = 0x151530
+size = 0x9
+name = "sub_180152530"
+type = "long long"
+
+[header]
+name = "sub_180152530"
+addr = 0x151530
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.463018Z
+addr = 0xc0cab0
+size = 0xfd
+name = "CCSPlayer_WeaponServices_Weapon_GetSlot"
+type = "long long"
+
+[header]
+name = "CCSPlayer_WeaponServices_Weapon_GetSlot"
+addr = 0xc0cab0
+type = "long long"
+
+[header.args]

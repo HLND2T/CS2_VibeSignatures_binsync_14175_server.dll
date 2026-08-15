@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.463381Z
+addr = 0x122da80
+size = 0x21e
+name = "CEntitySystem_RegisterEntityClass"
+type = "long long"
+
+[header]
+name = "CEntitySystem_RegisterEntityClass"
+addr = 0x122da80
+type = "long long"
+
+[header.args]

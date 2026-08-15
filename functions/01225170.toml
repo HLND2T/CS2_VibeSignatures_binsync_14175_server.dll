@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.463340Z
+addr = 0x1225170
+size = 0x2f6
+name = "CEntitySystem_ExecuteQueuedActivates"
+type = "int"
+
+[header]
+name = "CEntitySystem_ExecuteQueuedActivates"
+addr = 0x1225170
+type = "int"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.462876Z
+addr = 0xb7e9d0
+size = 0x31
+name = "UTIL_CreateEntityByName"
+type = "long long"
+
+[header]
+name = "UTIL_CreateEntityByName"
+addr = 0xb7e9d0
+type = "long long"
+
+[header.args]

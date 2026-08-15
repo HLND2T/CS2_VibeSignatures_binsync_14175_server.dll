@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.463414Z
+addr = 0x1244780
+size = 0x194
+name = "CEntityInstance_UpdateOnRemove"
+type = "long long"
+
+[header]
+name = "CEntityInstance_UpdateOnRemove"
+addr = 0x1244780
+type = "long long"
+
+[header.args]

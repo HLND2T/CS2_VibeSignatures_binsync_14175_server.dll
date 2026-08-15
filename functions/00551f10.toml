@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.462529Z
+addr = 0x551f10
+size = 0xdf
+name = "CSpawnGroupMgrGameSystem_CreateLoadingSpawnGroupForSaveFile"
+type = "long long"
+
+[header]
+name = "CSpawnGroupMgrGameSystem_CreateLoadingSpawnGroupForSaveFile"
+addr = 0x551f10
+type = "long long"
+
+[header.args]

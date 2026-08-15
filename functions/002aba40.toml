@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.462368Z
+addr = 0x2aba40
+size = 0x4bd
+name = "CCSBotManager_AddBot"
+type = "char"
+
+[header]
+name = "CCSBotManager_AddBot"
+addr = 0x2aba40
+type = "char"
+
+[header.args]

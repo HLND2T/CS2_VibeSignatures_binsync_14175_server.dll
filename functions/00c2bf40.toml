@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.463021Z
+addr = 0xc2bf40
+size = 0x23a
+name = "ClientPrintToController"
+type = "void"
+
+[header]
+name = "ClientPrintToController"
+addr = 0xc2bf40
+type = "void"
+
+[header.args]

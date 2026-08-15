@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.463399Z
+addr = 0x12421b0
+size = 0xeb
+name = "CEntityInstance_dtor"
+type = "long long"
+
+[header]
+name = "CEntityInstance_dtor"
+addr = 0x12421b0
+type = "long long"
+
+[header.args]

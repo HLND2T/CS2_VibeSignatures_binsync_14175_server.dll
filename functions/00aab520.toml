@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.462767Z
+addr = 0xaab520
+size = 0x21e
+name = "CTakeDamageInfo_GetWeaponName"
+type = "const char *"
+
+[header]
+name = "CTakeDamageInfo_GetWeaponName"
+addr = 0xaab520
+type = "const char *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.463055Z
+addr = 0xc53ee0
+size = 0x3a
+name = "CCSPlayerController_AddedToEntityDatabase"
+type = "long long"
+
+[header]
+name = "CCSPlayerController_AddedToEntityDatabase"
+addr = 0xc53ee0
+type = "long long"
+
+[header.args]

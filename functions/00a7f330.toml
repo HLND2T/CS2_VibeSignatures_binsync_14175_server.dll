@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.462748Z
+addr = 0xa7f330
+size = 0x8b3
+name = "CCSPlayer_UseServices_OnUseImpl"
+type = "void"
+
+[header]
+name = "CCSPlayer_UseServices_OnUseImpl"
+addr = 0xa7f330
+type = "void"
+
+[header.args]

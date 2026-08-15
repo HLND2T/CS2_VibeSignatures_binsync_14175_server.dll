@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.462560Z
+addr = 0x598cb0
+size = 0x1d7
+name = "CSpawnGroupMgrGameSystem_UnloadSpawnGroup"
+type = "void"
+
+[header]
+name = "CSpawnGroupMgrGameSystem_UnloadSpawnGroup"
+addr = 0x598cb0
+type = "void"
+
+[header.args]

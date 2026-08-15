@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.462910Z
+addr = 0xba3e20
+size = 0x223
+name = "CGameSceneNode_PreInstanceSpawn"
+type = "void"
+
+[header]
+name = "CGameSceneNode_PreInstanceSpawn"
+addr = 0xba3e20
+type = "void"
+
+[header.args]

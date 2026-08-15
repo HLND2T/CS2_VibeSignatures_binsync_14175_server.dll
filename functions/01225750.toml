@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.463343Z
+addr = 0x1225750
+size = 0x5ef
+name = "CEntitySystem_ExecuteQueuedDeletion"
+type = "void"
+
+[header]
+name = "CEntitySystem_ExecuteQueuedDeletion"
+addr = 0x1225750
+type = "void"
+
+[header.args]

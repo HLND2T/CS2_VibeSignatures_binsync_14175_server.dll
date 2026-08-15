@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.462571Z
+addr = 0x60a930
+size = 0x4e2
+name = "CNetworkUtlVectorEmbedded_NetworkStateChanged_m_vecRenderAttributes"
+type = "void"
+
+[header]
+name = "CNetworkUtlVectorEmbedded_NetworkStateChanged_m_vecRenderAttributes"
+addr = 0x60a930
+type = "void"
+
+[header.args]
