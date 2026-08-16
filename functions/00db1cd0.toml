@@ -1,12 +1,12 @@
-last_change = 2026-08-15T07:57:08.463264Z
+last_change = 2026-08-16T09:31:23.751606Z
 addr = 0xdb1cd0
 size = 0x5ea
 name = "CPointTeleportAPI_TeleportEntityInternal"
-type = "long long"
+type = "unsigned long long *"
 
 [header]
 name = "CPointTeleportAPI_TeleportEntityInternal"
 addr = 0xdb1cd0
-type = "long long"
+type = "unsigned long long *"
 
 [header.args]

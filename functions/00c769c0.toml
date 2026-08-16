@@ -1,12 +1,12 @@
-last_change = 2026-08-15T07:57:08.463084Z
+last_change = 2026-08-16T09:31:23.751099Z
 addr = 0xc769c0
 size = 0x1f9
 name = "CBaseEntity_OnSetDormant"
-type = "long long"
+type = "double"
 
 [header]
 name = "CBaseEntity_OnSetDormant"
 addr = 0xc769c0
-type = "long long"
+type = "double"
 
 [header.args]

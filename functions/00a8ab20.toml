@@ -1,12 +1,12 @@
-last_change = 2026-08-15T07:57:08.462757Z
+last_change = 2026-08-16T09:31:23.750213Z
 addr = 0xa8ab20
 size = 0x70b
 name = "CCSPlayer_UseServices_BumpWeapon"
-type = "long long"
+type = "char"
 
 [header]
 name = "CCSPlayer_UseServices_BumpWeapon"
 addr = 0xa8ab20
-type = "long long"
+type = "char"
 
 [header.args]

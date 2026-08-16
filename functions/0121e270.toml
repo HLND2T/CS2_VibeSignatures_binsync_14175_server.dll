@@ -1,12 +1,12 @@
-last_change = 2026-08-15T07:57:08.463314Z
+last_change = 2026-08-16T09:31:23.751735Z
 addr = 0x121e270
 size = 0x2a9
 name = "CEntitySystem_AddEntityIOEvent2"
-type = "long long"
+type = "void"
 
 [header]
 name = "CEntitySystem_AddEntityIOEvent2"
 addr = 0x121e270
-type = "long long"
+type = "void"
 
 [header.args]

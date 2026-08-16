@@ -1,10 +1,12 @@
-last_change = 2026-08-15T07:57:08.462838Z
+last_change = 2026-08-16T09:31:23.750433Z
 addr = 0xb57c50
 size = 0x5
 name = "CGameSystemReallocatingFactory_CSource2EntitySystem_Init"
+type = "char"
 
 [header]
 name = "CGameSystemReallocatingFactory_CSource2EntitySystem_Init"
 addr = 0xb57c50
+type = "char"
 
 [header.args]

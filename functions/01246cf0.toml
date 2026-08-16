@@ -1,12 +1,12 @@
-last_change = 2026-08-15T07:57:08.463428Z
+last_change = 2026-08-16T09:31:23.752131Z
 addr = 0x1246cf0
 size = 0x12d
 name = "CEntityIdentity_SetEntityName"
-type = "long long"
+type = "void"
 
 [header]
 name = "CEntityIdentity_SetEntityName"
 addr = 0x1246cf0
-type = "long long"
+type = "void"
 
 [header.args]
