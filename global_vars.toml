@@ -229,3 +229,8 @@ size = 0x1
 addr = 0x21a4c08
 name = "g_pAssetSystem"
 size = 0x8
+
+[0x21a4c10]
+addr = 0x21a4c10
+name = "g_pAssetSystemTest"
+size = 0x1
