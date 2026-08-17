@@ -439,3 +439,8 @@ size = 0x8
 addr = 0x21a4d60
 name = "g_pFlattenedSerializers"
 size = 0x8
+
+[0x21a4d68]
+addr = 0x21a4d68
+name = "g_pSerializedEntities"
+size = 0x8
