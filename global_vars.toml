@@ -179,3 +179,8 @@ size = 0x1
 addr = 0x21a4bb8
 name = "g_pLocalize"
 size = 0x1
+
+[0x21a4bc0]
+addr = 0x21a4bc0
+name = "g_pMaterialUtils"
+size = 0x1
