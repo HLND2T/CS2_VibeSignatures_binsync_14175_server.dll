@@ -514,3 +514,8 @@ size = 0x1
 addr = 0x21a4dd8
 name = "g_pSource2ClientUI"
 size = 0x1
+
+[0x21a4de0]
+addr = 0x21a4de0
+name = "g_pSource2Engine"
+size = 0x8
