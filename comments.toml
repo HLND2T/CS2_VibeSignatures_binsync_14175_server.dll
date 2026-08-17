@@ -21,3 +21,9 @@ addr = 0x1ccd92
 func_addr = 0x1cb900
 comment = "void (__cdecl *)()"
 decompiled = false
+
+[0x1ef3eb]
+addr = 0x1ef3eb
+func_addr = 0x1eefd0
+comment = "Trap to Debugger"
+decompiled = false
