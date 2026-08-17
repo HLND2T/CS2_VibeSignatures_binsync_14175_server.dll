@@ -299,3 +299,8 @@ size = 0x8
 addr = 0x21a4c78
 name = "g_pVConComm"
 size = 0x8
+
+[0x21a4c80]
+addr = 0x21a4c80
+name = "g_pSource2V8System"
+size = 0x1
