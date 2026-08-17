@@ -344,3 +344,8 @@ size = 0x1
 addr = 0x21a4cc8
 name = "g_pRenderHardwareConfig"
 size = 0x8
+
+[0x21a4cd0]
+addr = 0x21a4cd0
+name = "g_pRenderUtils"
+size = 0x1
