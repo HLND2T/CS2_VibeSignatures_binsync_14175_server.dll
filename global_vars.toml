@@ -19,3 +19,8 @@ size = 0x8
 addr = 0x1becb48
 name = "IGameSystem_LoopDestroyAllSystems_s_GameSystems"
 size = 0x4
+
+[0x1c52d18]
+addr = 0x1c52d18
+name = "g_GameTraceManager"
+size = 0x8
