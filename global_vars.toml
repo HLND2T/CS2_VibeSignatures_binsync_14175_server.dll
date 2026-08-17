@@ -259,3 +259,8 @@ size = 0x8
 addr = 0x21a4c38
 name = "g_pResourceHandleUtils"
 size = 0x8
+
+[0x21a4c40]
+addr = 0x21a4c40
+name = "g_pResourceManifestRegistry"
+size = 0x8
