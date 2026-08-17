@@ -189,3 +189,8 @@ size = 0x1
 addr = 0x21a4bc8
 name = "g_pFontManager"
 size = 0x8
+
+[0x21a4bd0]
+addr = 0x21a4bd0
+name = "g_pTextLayout"
+size = 0x1
