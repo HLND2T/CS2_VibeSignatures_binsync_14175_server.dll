@@ -199,3 +199,8 @@ size = 0x1
 addr = 0x21a4bd8
 name = "g_pAssetRenameSystem"
 size = 0x1
+
+[0x21a4be0]
+addr = 0x21a4be0
+name = "g_pAssetPreviewSystem"
+size = 0x1
