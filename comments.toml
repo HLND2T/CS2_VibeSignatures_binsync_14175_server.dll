@@ -3,3 +3,9 @@ addr = 0x1c5635
 func_addr = 0x1c5570
 comment = "Trap to Debugger"
 decompiled = false
+
+[0x1c5643]
+addr = 0x1c5643
+func_addr = 0x1c5570
+comment = "Trap to Debugger"
+decompiled = false
