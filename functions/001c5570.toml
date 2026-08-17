@@ -1,2 +1,9 @@
 addr = 0x1c5570
 size = 0x111
+name = "CUtlVectorEmbeddedNetworkVar_CSPerRoundStats_t_NetworkVar_m_perRoundStats_SetCount"
+
+[header]
+name = "CUtlVectorEmbeddedNetworkVar_CSPerRoundStats_t_NetworkVar_m_perRoundStats_SetCount"
+addr = 0x1c5570
+
+[header.args]
