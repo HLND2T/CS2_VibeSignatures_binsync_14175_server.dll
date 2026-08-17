@@ -644,3 +644,8 @@ size = 0x8
 addr = 0x21a4ea8
 name = "g_pGameUIService"
 size = 0x8
+
+[0x21a4eb0]
+addr = 0x21a4eb0
+name = "g_pSoundService"
+size = 0x1
