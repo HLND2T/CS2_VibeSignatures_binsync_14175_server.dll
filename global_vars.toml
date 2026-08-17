@@ -279,3 +279,8 @@ size = 0x1
 addr = 0x21a4c58
 name = "g_pInputSystem"
 size = 0x8
+
+[0x21a4c60]
+addr = 0x21a4c60
+name = "g_pInputStackSystem"
+size = 0x8
