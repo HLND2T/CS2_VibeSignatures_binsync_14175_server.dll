@@ -57,3 +57,9 @@ addr = 0x225dc0
 func_addr = 0x225cf0
 comment = "this"
 decompiled = false
+
+[0x225dfc]
+addr = 0x225dfc
+func_addr = 0x225cf0
+comment = "int"
+decompiled = false
