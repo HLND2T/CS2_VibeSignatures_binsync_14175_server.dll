@@ -659,3 +659,8 @@ size = 0x1
 addr = 0x21a4ec0
 name = "g_pKeyValueCache"
 size = 0x1
+
+[0x21a4ec8]
+addr = 0x21a4ec8
+name = "g_pClientServerSharedHandleSystem"
+size = 0x1
