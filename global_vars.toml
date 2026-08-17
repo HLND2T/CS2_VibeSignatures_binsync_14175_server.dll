@@ -504,3 +504,8 @@ size = 0x1
 addr = 0x21a4dc8
 name = "g_pRAD3"
 size = 0x1
+
+[0x21a4dd0]
+addr = 0x21a4dd0
+name = "g_pSource2Client"
+size = 0x1
