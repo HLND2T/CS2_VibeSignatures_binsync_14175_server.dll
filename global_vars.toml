@@ -24,3 +24,8 @@ size = 0x4
 addr = 0x1c52d18
 name = "g_GameTraceManager"
 size = 0x8
+
+[0x1c530f0]
+addr = 0x1c530f0
+name = "gameeventmanager"
+size = 0x8
