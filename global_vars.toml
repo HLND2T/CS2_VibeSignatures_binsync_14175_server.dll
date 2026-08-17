@@ -69,3 +69,8 @@ size = 0x1
 addr = 0x1f6dd20
 name = "g_pGameTypes"
 size = 0x8
+
+[0x1fc4060]
+addr = 0x1fc4060
+name = "g_pGameEntitySystem"
+size = 0x8
