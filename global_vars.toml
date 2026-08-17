@@ -604,3 +604,8 @@ size = 0x8
 addr = 0x21a4e68
 name = "g_pToolService"
 size = 0x1
+
+[0x21a4e70]
+addr = 0x21a4e70
+name = "g_pServerToolsInfo"
+size = 0x1
