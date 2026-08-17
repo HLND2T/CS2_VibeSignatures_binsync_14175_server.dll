@@ -624,3 +624,8 @@ size = 0x8
 addr = 0x21a4e88
 name = "g_pStatsService"
 size = 0x1
+
+[0x21a4e90]
+addr = 0x21a4e90
+name = "g_pVProfService"
+size = 0x1
