@@ -99,3 +99,8 @@ size = 0x8
 addr = 0x21347c0
 name = "g_pEntitySystem"
 size = 0x8
+
+[0x2137d28]
+addr = 0x2137d28
+name = "g_pGameResourceService"
+size = 0x8
