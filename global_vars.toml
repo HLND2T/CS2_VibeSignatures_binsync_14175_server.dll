@@ -44,3 +44,8 @@ size = 0x8
 addr = 0x1dffdf8
 name = "g_pCSBotManager"
 size = 0x8
+
+[0x1e453a0]
+addr = 0x1e453a0
+name = "IGameSystem_LoopPostInitAllSystems_pEventDispatcher"
+size = 0x8
