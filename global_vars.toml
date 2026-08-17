@@ -54,3 +54,8 @@ size = 0x8
 addr = 0x1e453b8
 name = "IGameSystem_InitAllSystems_pFirst"
 size = 0x8
+
+[0x1e45428]
+addr = 0x1e45428
+name = "g_EntitySystem"
+size = 0x8
