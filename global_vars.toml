@@ -569,3 +569,8 @@ size = 0x1
 addr = 0x21a4e30
 name = "g_pSource2ClientPrediction"
 size = 0x1
+
+[0x21a4e38]
+addr = 0x21a4e38
+name = "g_pEngineServiceMgr"
+size = 0x8
