@@ -1,2 +1,9 @@
 addr = 0x225cf0
 size = 0x2d6
+name = "ScriptBinding_CSPlayerPawn_DestroyWeapon"
+
+[header]
+name = "ScriptBinding_CSPlayerPawn_DestroyWeapon"
+addr = 0x225cf0
+
+[header.args]
