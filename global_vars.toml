@@ -114,3 +114,8 @@ size = 0x8
 addr = 0x21a4b50
 name = "g_pVApplication"
 size = 0x8
+
+[0x21a4b58]
+addr = 0x21a4b58
+name = "g_pVEngineCvar"
+size = 0x8
