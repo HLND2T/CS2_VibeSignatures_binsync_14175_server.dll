@@ -239,3 +239,8 @@ size = 0x1
 addr = 0x21a4c18
 name = "g_pPropertyEditorSystem"
 size = 0x1
+
+[0x21a4c20]
+addr = 0x21a4c20
+name = "g_pSchemaSystem"
+size = 0x8
