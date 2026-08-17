@@ -319,3 +319,8 @@ size = 0x1
 addr = 0x21a4c98
 name = "g_pPanoramaTextServices"
 size = 0x1
+
+[0x21a4ca8]
+addr = 0x21a4ca8
+name = "g_pModelDocUtils"
+size = 0x1
