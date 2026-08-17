@@ -429,3 +429,8 @@ size = 0x8
 addr = 0x21a4d50
 name = "g_pNetworkSystem"
 size = 0x8
+
+[0x21a4d58]
+addr = 0x21a4d58
+name = "g_pNetworkMessages"
+size = 0x8
