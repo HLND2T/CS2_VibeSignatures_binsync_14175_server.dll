@@ -489,3 +489,8 @@ size = 0x8
 addr = 0x21a4db0
 name = "g_pExportSystem"
 size = 0x1
+
+[0x21a4db8]
+addr = 0x21a4db8
+name = "g_pNavSystem"
+size = 0x1
