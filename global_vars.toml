@@ -104,3 +104,8 @@ size = 0x8
 addr = 0x2137d28
 name = "g_pGameResourceService"
 size = 0x8
+
+[0x214b7d8]
+addr = 0x214b7d8
+name = "g_pNavMesh"
+size = 0x8
