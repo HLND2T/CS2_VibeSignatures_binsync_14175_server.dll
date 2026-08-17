@@ -219,3 +219,8 @@ size = 0x1
 addr = 0x21a4bf8
 name = "g_pFileSystem"
 size = 0x8
+
+[0x21a4c00]
+addr = 0x21a4c00
+name = "g_pAsyncFileSystem"
+size = 0x1
