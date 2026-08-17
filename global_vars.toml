@@ -459,3 +459,8 @@ size = 0x8
 addr = 0x21a4d80
 name = "g_pToolFramework2"
 size = 0x8
+
+[0x21a4d88]
+addr = 0x21a4d88
+name = "g_pHammerMapLoader"
+size = 0x1
