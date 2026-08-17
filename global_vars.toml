@@ -614,3 +614,8 @@ size = 0x1
 addr = 0x21a4e78
 name = "g_pClientToolsInfo"
 size = 0x1
+
+[0x21a4e80]
+addr = 0x21a4e80
+name = "g_pRenderService"
+size = 0x8
