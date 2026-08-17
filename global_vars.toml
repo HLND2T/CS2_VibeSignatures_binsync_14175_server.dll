@@ -184,3 +184,8 @@ size = 0x1
 addr = 0x21a4bc0
 name = "g_pMaterialUtils"
 size = 0x1
+
+[0x21a4bc8]
+addr = 0x21a4bc8
+name = "g_pFontManager"
+size = 0x8
