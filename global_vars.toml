@@ -329,3 +329,8 @@ size = 0x1
 addr = 0x21a4cb0
 name = "g_pAnimGraphEditorUtils"
 size = 0x1
+
+[0x21a4cb8]
+addr = 0x21a4cb8
+name = "g_pRenderDevice"
+size = 0x8
