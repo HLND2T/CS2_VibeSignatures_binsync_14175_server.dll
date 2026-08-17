@@ -324,3 +324,8 @@ size = 0x1
 addr = 0x21a4ca8
 name = "g_pModelDocUtils"
 size = 0x1
+
+[0x21a4cb0]
+addr = 0x21a4cb0
+name = "g_pAnimGraphEditorUtils"
+size = 0x1
