@@ -254,3 +254,8 @@ size = 0x1
 addr = 0x21a4c30
 name = "g_pResourceSystem"
 size = 0x8
+
+[0x21a4c38]
+addr = 0x21a4c38
+name = "g_pResourceHandleUtils"
+size = 0x8
