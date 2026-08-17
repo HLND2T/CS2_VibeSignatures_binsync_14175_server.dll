@@ -479,3 +479,8 @@ size = 0x1
 addr = 0x21a4da0
 name = "g_pBakedLODBuilderMgr"
 size = 0x1
+
+[0x21a4da8]
+addr = 0x21a4da8
+name = "g_pVPhysics2"
+size = 0x8
