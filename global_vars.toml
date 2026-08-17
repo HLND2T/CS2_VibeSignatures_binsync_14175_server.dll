@@ -214,3 +214,8 @@ size = 0x1
 addr = 0x21a4bf0
 name = "g_pRenderDeviceMgr"
 size = 0x1
+
+[0x21a4bf8]
+addr = 0x21a4bf8
+name = "g_pFileSystem"
+size = 0x8
