@@ -74,3 +74,8 @@ size = 0x8
 addr = 0x1fc4060
 name = "g_pGameEntitySystem"
 size = 0x8
+
+[0x1fcd6b8]
+addr = 0x1fcd6b8
+name = "CPlayer_MovementServices_s_pRunCommandPawn"
+size = 0x8
