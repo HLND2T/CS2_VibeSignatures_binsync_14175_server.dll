@@ -134,3 +134,8 @@ size = 0x8
 addr = 0x21a4b70
 name = "g_pHelpSystem"
 size = 0x1
+
+[0x21a4b78]
+addr = 0x21a4b78
+name = "g_pToolSceneNodeFactory"
+size = 0x1
