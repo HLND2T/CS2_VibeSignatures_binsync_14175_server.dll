@@ -149,3 +149,8 @@ size = 0x1
 addr = 0x21a4b88
 name = "g_pSchemaTestExternalTwo"
 size = 0x1
+
+[0x21a4b90]
+addr = 0x21a4b90
+name = "g_pSchemaTestExternalOne"
+size = 0x1
