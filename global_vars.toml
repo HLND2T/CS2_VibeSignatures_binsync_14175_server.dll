@@ -404,3 +404,8 @@ size = 0x8
 addr = 0x21a4d28
 name = "g_pWEBM"
 size = 0x1
+
+[0x21a4d30]
+addr = 0x21a4d30
+name = "g_pMediaFoundation"
+size = 0x1
