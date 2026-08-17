@@ -494,3 +494,8 @@ size = 0x1
 addr = 0x21a4db8
 name = "g_pNavSystem"
 size = 0x1
+
+[0x21a4dc0]
+addr = 0x21a4dc0
+name = "g_pNavGameTest"
+size = 0x1
