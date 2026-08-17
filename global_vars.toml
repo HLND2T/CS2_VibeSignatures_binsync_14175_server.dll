@@ -584,3 +584,8 @@ size = 0x8
 addr = 0x21a4e48
 name = "g_pNetworkService"
 size = 0x8
+
+[0x21a4e50]
+addr = 0x21a4e50
+name = "g_pNetworkClientService"
+size = 0x8
