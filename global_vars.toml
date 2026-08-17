@@ -649,3 +649,8 @@ size = 0x8
 addr = 0x21a4eb0
 name = "g_pSoundService"
 size = 0x1
+
+[0x21a4eb8]
+addr = 0x21a4eb8
+name = "g_pBenchmarkService"
+size = 0x1
