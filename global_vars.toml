@@ -414,3 +414,8 @@ size = 0x1
 addr = 0x21a4d38
 name = "g_pAVI"
 size = 0x8
+
+[0x21a4d40]
+addr = 0x21a4d40
+name = "g_pBIK"
+size = 0x1
