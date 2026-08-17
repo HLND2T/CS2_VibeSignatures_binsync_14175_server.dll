@@ -274,3 +274,8 @@ size = 0x8
 addr = 0x21a4c50
 name = "g_pPostProcessingSystem"
 size = 0x1
+
+[0x21a4c58]
+addr = 0x21a4c58
+name = "g_pInputSystem"
+size = 0x8
