@@ -27,3 +27,9 @@ addr = 0x1ef3eb
 func_addr = 0x1eefd0
 comment = "Trap to Debugger"
 decompiled = false
+
+[0x225d51]
+addr = 0x225d51
+func_addr = 0x225cf0
+comment = "struct v8::Isolate *"
+decompiled = false
