@@ -594,3 +594,8 @@ size = 0x8
 addr = 0x21a4e58
 name = "g_pNetworkP2PService"
 size = 0x1
+
+[0x21a4e60]
+addr = 0x21a4e60
+name = "g_pNetworkServerService"
+size = 0x8
