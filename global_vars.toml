@@ -59,3 +59,8 @@ size = 0x8
 addr = 0x1e45428
 name = "g_EntitySystem"
 size = 0x8
+
+[0x1f61768]
+addr = 0x1f61768
+name = "CCSGameRules__sm_mapGcBanInformation"
+size = 0x1
