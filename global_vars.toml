@@ -84,3 +84,8 @@ size = 0x8
 addr = 0x1fe5bc0
 name = "g_networkstringtable"
 size = 0x8
+
+[0x1fe5db0]
+addr = 0x1fe5db0
+name = "g_engine"
+size = 0x8
