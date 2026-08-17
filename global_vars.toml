@@ -419,3 +419,8 @@ size = 0x8
 addr = 0x21a4d40
 name = "g_pBIK"
 size = 0x1
+
+[0x21a4d48]
+addr = 0x21a4d48
+name = "g_pWorldRendererMgr"
+size = 0x8
