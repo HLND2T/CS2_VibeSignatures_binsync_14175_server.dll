@@ -454,3 +454,8 @@ size = 0x1
 addr = 0x21a4d78
 name = "g_pParticleSystemMgr"
 size = 0x8
+
+[0x21a4d80]
+addr = 0x21a4d80
+name = "g_pToolFramework2"
+size = 0x8
