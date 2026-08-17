@@ -29,3 +29,8 @@ size = 0x8
 addr = 0x1c530f0
 name = "gameeventmanager"
 size = 0x8
+
+[0x1c53320]
+addr = 0x1c53320
+name = "s_GameEventManager"
+size = 0x8
