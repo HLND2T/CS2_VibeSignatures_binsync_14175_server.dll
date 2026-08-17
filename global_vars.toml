@@ -9,3 +9,8 @@ size = 0x8
 addr = 0x190e630
 name = "g_pInterfaceGlobals"
 size = 0x8
+
+[0x1bc7670]
+addr = 0x1bc7670
+name = "qword_181BC8670"
+size = 0x8
