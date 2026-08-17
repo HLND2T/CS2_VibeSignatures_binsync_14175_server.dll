@@ -1,2 +1,9 @@
 addr = 0x1eefd0
 size = 0x688
+name = "CDedicatedServerWorkshopManager_SwitchToWorkshopMapGroup"
+
+[header]
+name = "CDedicatedServerWorkshopManager_SwitchToWorkshopMapGroup"
+addr = 0x1eefd0
+
+[header.args]
