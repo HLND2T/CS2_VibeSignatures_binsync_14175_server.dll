@@ -14,3 +14,8 @@ size = 0x8
 addr = 0x1bc7670
 name = "qword_181BC8670"
 size = 0x8
+
+[0x1becb48]
+addr = 0x1becb48
+name = "IGameSystem_LoopDestroyAllSystems_s_GameSystems"
+size = 0x4
