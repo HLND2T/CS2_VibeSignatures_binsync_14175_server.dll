@@ -81,3 +81,9 @@ addr = 0x25fad1
 func_addr = 0x25fa70
 comment = "struct v8::Isolate *"
 decompiled = false
+
+[0x25fad4]
+addr = 0x25fad4
+func_addr = 0x25fa70
+comment = "this"
+decompiled = false
