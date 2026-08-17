@@ -469,3 +469,8 @@ size = 0x1
 addr = 0x21a4d90
 name = "g_pVisBuilder"
 size = 0x1
+
+[0x21a4d98]
+addr = 0x21a4d98
+name = "g_pPhysicsBuilderMgr"
+size = 0x1
