@@ -64,3 +64,8 @@ size = 0x8
 addr = 0x1f61768
 name = "CCSGameRules__sm_mapGcBanInformation"
 size = 0x1
+
+[0x1f6dd20]
+addr = 0x1f6dd20
+name = "g_pGameTypes"
+size = 0x8
