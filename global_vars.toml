@@ -109,3 +109,8 @@ size = 0x8
 addr = 0x214b7d8
 name = "g_pNavMesh"
 size = 0x8
+
+[0x21a4b50]
+addr = 0x21a4b50
+name = "g_pVApplication"
+size = 0x8
