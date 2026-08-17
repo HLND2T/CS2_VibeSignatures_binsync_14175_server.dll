@@ -664,3 +664,8 @@ size = 0x1
 addr = 0x21a4ec8
 name = "g_pClientServerSharedHandleSystem"
 size = 0x1
+
+[0x21a4ee0]
+addr = 0x21a4ee0
+name = "g_pGameResourceServiceClient"
+size = 0x1
