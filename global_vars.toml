@@ -449,3 +449,8 @@ size = 0x8
 addr = 0x21a4d70
 name = "g_pDemoUpconverter"
 size = 0x1
+
+[0x21a4d78]
+addr = 0x21a4d78
+name = "g_pParticleSystemMgr"
+size = 0x8
