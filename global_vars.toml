@@ -564,3 +564,8 @@ size = 0x1
 addr = 0x21a4e28
 name = "g_pSource2EngineToClientStringTable"
 size = 0x1
+
+[0x21a4e30]
+addr = 0x21a4e30
+name = "g_pSource2ClientPrediction"
+size = 0x1
