@@ -4,3 +4,8 @@ addr = 0x15d2400
 name = "V_stricmp_fast"
 type = "long long __fastcall(unsigned long long, unsigned long long)"
 size = 0x8
+
+[0x190e630]
+addr = 0x190e630
+name = "g_pInterfaceGlobals"
+size = 0x8
