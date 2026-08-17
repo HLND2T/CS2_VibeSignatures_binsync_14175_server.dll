@@ -369,3 +369,8 @@ size = 0x8
 addr = 0x21a4cf0
 name = "g_pSteamAudio"
 size = 0x8
+
+[0x21a4cf8]
+addr = 0x21a4cf8
+name = "g_pMeshSystem"
+size = 0x8
