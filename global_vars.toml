@@ -409,3 +409,8 @@ size = 0x1
 addr = 0x21a4d30
 name = "g_pMediaFoundation"
 size = 0x1
+
+[0x21a4d38]
+addr = 0x21a4d38
+name = "g_pAVI"
+size = 0x8
