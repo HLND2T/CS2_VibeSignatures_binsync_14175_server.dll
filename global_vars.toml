@@ -394,3 +394,8 @@ size = 0x8
 addr = 0x21a4d18
 name = "g_pSceneUtils"
 size = 0x8
+
+[0x21a4d20]
+addr = 0x21a4d20
+name = "g_pScriptManager"
+size = 0x8
