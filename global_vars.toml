@@ -294,3 +294,8 @@ size = 0x1
 addr = 0x21a4c70
 name = "g_pMatchFramework"
 size = 0x8
+
+[0x21a4c78]
+addr = 0x21a4c78
+name = "g_pVConComm"
+size = 0x8
