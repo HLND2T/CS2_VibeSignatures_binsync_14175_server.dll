@@ -209,3 +209,8 @@ size = 0x1
 addr = 0x21a4be8
 name = "g_pAssetBrowserSystem"
 size = 0x1
+
+[0x21a4bf0]
+addr = 0x21a4bf0
+name = "g_pRenderDeviceMgr"
+size = 0x1
