@@ -244,3 +244,8 @@ size = 0x1
 addr = 0x21a4c20
 name = "g_pSchemaSystem"
 size = 0x8
+
+[0x21a4c28]
+addr = 0x21a4c28
+name = "g_pResourceCompilerSystem"
+size = 0x1
