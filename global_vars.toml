@@ -1,0 +1,6 @@
+[0x15d2400]
+last_change = 2026-08-17T02:59:27.279609Z
+addr = 0x15d2400
+name = "V_stricmp_fast"
+type = "long long __fastcall(unsigned long long, unsigned long long)"
+size = 0x8
