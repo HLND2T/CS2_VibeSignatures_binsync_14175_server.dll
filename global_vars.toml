@@ -359,3 +359,8 @@ size = 0x8
 addr = 0x21a4ce0
 name = "g_pSoundOpSystemEdit"
 size = 0x1
+
+[0x21a4ce8]
+addr = 0x21a4ce8
+name = "g_pSoundOpSystem"
+size = 0x8
