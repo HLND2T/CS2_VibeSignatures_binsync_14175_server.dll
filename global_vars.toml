@@ -389,3 +389,8 @@ size = 0x8
 addr = 0x21a4d10
 name = "g_pIPulseSystem"
 size = 0x8
+
+[0x21a4d18]
+addr = 0x21a4d18
+name = "g_pSceneUtils"
+size = 0x8
