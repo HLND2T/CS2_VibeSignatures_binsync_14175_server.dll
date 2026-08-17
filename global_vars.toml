@@ -574,3 +574,8 @@ size = 0x1
 addr = 0x21a4e38
 name = "g_pEngineServiceMgr"
 size = 0x8
+
+[0x21a4e40]
+addr = 0x21a4e40
+name = "g_pHostStateMgr"
+size = 0x8
