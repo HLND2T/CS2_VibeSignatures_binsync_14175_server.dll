@@ -1,0 +1,11 @@
+last_change = 2026-08-18T02:19:34.642914Z
+addr = 0xd87570
+size = 0x16e
+name = "CBaseEntity_PhysicsImpactDust"
+
+[header]
+last_change = 2026-08-18T02:19:34.642914Z
+name = "CBaseEntity_PhysicsImpactDust"
+addr = 0xd87570
+
+[header.args]
