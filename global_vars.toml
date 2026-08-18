@@ -674,3 +674,9 @@ size = 0x1
 addr = 0x21a4ee8
 name = "g_pGameResourceServiceServer"
 size = 0x1
+
+[0x213ad00]
+last_change = 2026-08-18T02:37:22.574767Z
+addr = 0x213ad00
+name = "xmmword_18213BD00"
+size = 0x10
