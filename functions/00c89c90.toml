@@ -1,0 +1,11 @@
+last_change = 2026-08-19T03:38:34.698482Z
+addr = 0xc89c90
+size = 0xd5
+name = "BaseClass::VPhysicsCollision"
+
+[header]
+last_change = 2026-08-19T03:38:34.698482Z
+name = "BaseClass::VPhysicsCollision"
+addr = 0xc89c90
+
+[header.args]
