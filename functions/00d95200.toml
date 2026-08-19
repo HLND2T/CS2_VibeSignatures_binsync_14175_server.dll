@@ -1,0 +1,11 @@
+last_change = 2026-08-19T03:38:43.527611Z
+addr = 0xd95200
+size = 0x3fd
+name = "CRagdollProp::VPhysicsCollision"
+
+[header]
+last_change = 2026-08-19T03:38:43.527611Z
+name = "CRagdollProp::VPhysicsCollision"
+addr = 0xd95200
+
+[header.args]
