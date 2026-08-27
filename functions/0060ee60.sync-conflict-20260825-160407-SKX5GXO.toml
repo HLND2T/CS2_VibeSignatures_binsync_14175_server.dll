@@ -1,0 +1,10 @@
+last_change = 2026-08-18T05:10:31.198552Z
+addr = 0x60ee60
+size = 0x10d
+name = "CBaseEntity_ScriptDeleteAttribute"
+
+[header]
+name = "CBaseEntity_ScriptDeleteAttribute"
+addr = 0x60ee60
+
+[header.args]

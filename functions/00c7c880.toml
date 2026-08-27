@@ -1,0 +1,10 @@
+last_change = 2026-08-18T05:10:31.199845Z
+addr = 0xc7c880
+size = 0x3a
+name = "CBaseEntity_ScriptGetBoundingMins"
+
+[header]
+name = "CBaseEntity_ScriptGetBoundingMins"
+addr = 0xc7c880
+
+[header.args]

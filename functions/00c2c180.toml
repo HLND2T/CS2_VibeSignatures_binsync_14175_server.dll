@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:57:08.463023Z
+addr = 0xc2c180
+size = 0x7c
+name = "ClientPrint"
+type = "long long"
+
+[header]
+name = "ClientPrint"
+addr = 0xc2c180
+type = "long long"
+
+[header.args]

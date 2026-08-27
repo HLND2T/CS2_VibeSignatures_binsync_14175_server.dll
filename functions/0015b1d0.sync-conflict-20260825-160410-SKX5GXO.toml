@@ -1,0 +1,10 @@
+last_change = 2026-08-18T05:10:31.197881Z
+addr = 0x15b1d0
+size = 0x3
+name = "IGameSystem_OnSpawnGroupPrecache"
+
+[header]
+name = "IGameSystem_OnSpawnGroupPrecache"
+addr = 0x15b1d0
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-18T05:10:53.510232Z
+addr = 0xba0f40
+size = 0x99
+name = "CGameEntitySystem_OnAddEntity"
+type = "long long"
+
+[header]
+name = "CGameEntitySystem_OnAddEntity"
+addr = 0xba0f40
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-18T05:10:50.210586Z
+addr = 0xa634c0
+size = 0xea
+name = "CCSPlayer_ItemServices_DropActivePlayerWeapon"
+type = "long long"
+
+[header]
+name = "CCSPlayer_ItemServices_DropActivePlayerWeapon"
+addr = 0xa634c0
+type = "long long"
+
+[header.args]

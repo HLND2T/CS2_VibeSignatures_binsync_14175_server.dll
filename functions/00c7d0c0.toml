@@ -1,0 +1,10 @@
+last_change = 2026-08-18T05:10:31.199913Z
+addr = 0xc7d0c0
+size = 0x5
+name = "CBaseEntity_ScriptStopSound"
+
+[header]
+name = "CBaseEntity_ScriptStopSound"
+addr = 0xc7d0c0
+
+[header.args]

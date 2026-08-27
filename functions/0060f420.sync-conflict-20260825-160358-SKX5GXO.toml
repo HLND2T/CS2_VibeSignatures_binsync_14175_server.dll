@@ -1,0 +1,10 @@
+last_change = 2026-08-18T05:10:31.198626Z
+addr = 0x60f420
+size = 0x3c
+name = "CBaseModelEntity_ScriptGetRenderColor"
+
+[header]
+name = "CBaseModelEntity_ScriptGetRenderColor"
+addr = 0x60f420
+
+[header.args]

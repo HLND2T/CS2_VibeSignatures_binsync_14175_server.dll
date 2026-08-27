@@ -1,0 +1,10 @@
+last_change = 2026-08-18T05:10:31.199918Z
+addr = 0xc7d100
+size = 0x24
+name = "CBaseEntity_Script_ApplyLocalAngularVelocityImpulse"
+
+[header]
+name = "CBaseEntity_Script_ApplyLocalAngularVelocityImpulse"
+addr = 0xc7d100
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-08-18T05:10:31.199928Z
+addr = 0xc7d360
+size = 0x151
+name = "CBaseEntity_Script_TakeDamage"
+
+[header]
+name = "CBaseEntity_Script_TakeDamage"
+addr = 0xc7d360
+
+[header.args]

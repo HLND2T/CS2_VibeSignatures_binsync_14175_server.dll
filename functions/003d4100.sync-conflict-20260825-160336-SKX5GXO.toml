@@ -1,0 +1,12 @@
+last_change = 2026-08-18T05:10:31.198317Z
+addr = 0x3d4100
+size = 0x5b
+name = "CBaseEntity_SetGravityScale"
+type = "double"
+
+[header]
+name = "CBaseEntity_SetGravityScale"
+addr = 0x3d4100
+type = "double"
+
+[header.args]

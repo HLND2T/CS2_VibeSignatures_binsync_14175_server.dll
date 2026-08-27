@@ -1,0 +1,10 @@
+last_change = 2026-08-18T05:10:31.198670Z
+addr = 0x60f7e0
+size = 0x11c
+name = "CBaseEntity_ScriptSetAttributeIntValue"
+
+[header]
+name = "CBaseEntity_ScriptSetAttributeIntValue"
+addr = 0x60f7e0
+
+[header.args]

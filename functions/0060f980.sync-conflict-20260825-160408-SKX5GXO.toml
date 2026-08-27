@@ -1,0 +1,10 @@
+last_change = 2026-08-18T05:10:31.198689Z
+addr = 0x60f980
+size = 0x5
+name = "CBaseEntity_ScriptSetLocalOrigin"
+
+[header]
+name = "CBaseEntity_ScriptSetLocalOrigin"
+addr = 0x60f980
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-08-18T05:10:31.198300Z
+addr = 0x3d2570
+size = 0x99
+name = "CBaseEntity_Script_FollowEntityMerge"
+
+[header]
+name = "CBaseEntity_Script_FollowEntityMerge"
+addr = 0x3d2570
+
+[header.args]

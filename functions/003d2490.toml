@@ -1,0 +1,10 @@
+last_change = 2026-08-18T05:10:31.198294Z
+addr = 0x3d2490
+size = 0xd8
+name = "CBaseEntity_Script_FollowEntity"
+
+[header]
+name = "CBaseEntity_Script_FollowEntity"
+addr = 0x3d2490
+
+[header.args]

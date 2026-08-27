@@ -1,0 +1,10 @@
+last_change = 2026-08-18T05:10:31.198616Z
+addr = 0x60f3a0
+size = 0x52
+name = "CBaseEntity_ScriptGetModelName"
+
+[header]
+name = "CBaseEntity_ScriptGetModelName"
+addr = 0x60f3a0
+
+[header.args]
