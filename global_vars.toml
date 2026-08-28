@@ -686,3 +686,10 @@ last_change = 2026-08-18T02:37:22.578276Z
 addr = 0x213ad10
 name = ""
 size = 0x10
+
+[0x15d1f58]
+last_change = 2026-08-28T16:01:08.532036Z
+addr = 0x15d1f58
+name = "V_atofloat32"
+type = "float __fastcall(unsigned long long)"
+size = 0x8
